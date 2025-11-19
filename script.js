@@ -1,4 +1,4 @@
-// Orden de colores
+// Array de colores
 const colores = ["green", "blue", "red"];3
 
 // Seleccionar todos los h5
