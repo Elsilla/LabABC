@@ -2,4 +2,19 @@ html {
     height: 100%;
     width: 100%;
   }
-  
+
+body {
+  background-color: rgb(212, 212, 212);
+}
+
+h3 {
+  color: green;
+}
+
+.h3_azul {
+  color: blue;
+}
+
+.h3_rojo {
+  color: red;
+}
