@@ -40,9 +40,7 @@ Nombres del equipo listados en etiquetas <h5>.
 ✔ CSS
 
 Fondo gris.
-
-Color verde aplicado globalmente a <h3>.
-
+Color verde aplicado globalmente a < h3 >.
 Tres clases adicionales:
 
 -  .h3_azul → azul
@@ -53,19 +51,20 @@ Tres clases adicionales:
 
 Archivo correctamente vinculado al HTML.
 
+
 ✔ JavaScript
 
-Captura todos los elementos <h5>.
 
-Cada clic cambia su color alternando:
+- Captura todos los elementos < h5 >.
+
+- Cada clic cambia su color alternando:
 
 Verde
-
 Azul
-
 Rojo
 
-Cada etiqueta <h5> tiene su propio contador, independiente de los demás.
+
+Cada etiqueta < h5 > tiene su propio contador, independiente de los demás.
 
 
 <img width="371" height="36" alt="image" src="https://github.com/user-attachments/assets/af41abfc-5cf7-4503-ade5-a2d8504e98bf" />
@@ -82,14 +81,12 @@ Manipular elementos del DOM con JavaScript.
 Colaborar usando GitHub:
 
 ramas
-
 issues
-
 proyecto Kanban
-
 pull requests
-
 Seguir un flujo Scrum básico dentro del equipo.
+
+
 
 🔧 Instalación y Uso
 
