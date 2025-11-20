@@ -17,12 +17,14 @@ Un sistema interactivo que cambia los colores de los nombres del equipo al hacer
 Además, se implementaron prácticas básicas de HTML, CSS, JavaScript y Git/GitHub, siguiendo un flujo de trabajo colaborativo con ramas, issues y tablero de proyecto.
 
 🧩 Estructura del Proyecto
+
+
 <img width="230" height="271" alt="image" src="https://github.com/user-attachments/assets/177c2c70-7006-491d-840f-545d865d5d27" />
 
 
 🚀 Funcionalidades Principales
-✔ HTML
 
+✔ HTML
 Página principal estructurada con Bootstrap 5.
 
 Todas las letras del alfabeto (A–Z) con:
@@ -43,11 +45,11 @@ Color verde aplicado globalmente a <h3>.
 
 Tres clases adicionales:
 
-.h3_azul → azul
+-  .h3_azul → azul
 
-.h3_rojo → rojo
+-  .h3_rojo → rojo
 
-h5 → cursor tipo "pointer"
+-  h5 → cursor tipo "pointer"
 
 Archivo correctamente vinculado al HTML.
 
@@ -64,6 +66,7 @@ Azul
 Rojo
 
 Cada etiqueta <h5> tiene su propio contador, independiente de los demás.
+
 
 <img width="371" height="36" alt="image" src="https://github.com/user-attachments/assets/af41abfc-5cf7-4503-ade5-a2d8504e98bf" />
 
@@ -92,7 +95,9 @@ Seguir un flujo Scrum básico dentro del equipo.
 
 1.- Clona el repositorio:
 
+
 <img width="246" height="36" alt="image" src="https://github.com/user-attachments/assets/d5e81997-4d80-4537-a2ad-cd1158f258f7" />
+
 
 2.- Abre el proyecto en tu editor (VS Code, Replit, etc.)
 
@@ -110,6 +115,7 @@ El color cambia cíclicamente → verde → azul → rojo → (repite).
 Cada nombre tiene su propio ciclo independiente.
 
 Esto se logró mediante:
+
 
 <img width="400" height="128" alt="image" src="https://github.com/user-attachments/assets/bbd88d0c-aa05-4728-a519-2ef498c6556b" />
 
