@@ -17,16 +17,8 @@ Un sistema interactivo que cambia los colores de los nombres del equipo al hacer
 Además, se implementaron prácticas básicas de HTML, CSS, JavaScript y Git/GitHub, siguiendo un flujo de trabajo colaborativo con ramas, issues y tablero de proyecto.
 
 🧩 Estructura del Proyecto
-/
-│── index.html
-│── style.css
-│── script.js
-│── lessonplan.md
-└── Pictures/
-     ├── a-appa.jpg
-     ├── b-beans.jpg
-     ├── …
-     └── z-zebra.jpg
+<img width="230" height="271" alt="image" src="https://github.com/user-attachments/assets/177c2c70-7006-491d-840f-545d865d5d27" />
+
 
 🚀 Funcionalidades Principales
 ✔ HTML
@@ -35,11 +27,11 @@ Página principal estructurada con Bootstrap 5.
 
 Todas las letras del alfabeto (A–Z) con:
 
-Título <h1>
+- Título <h1>
 
-Descripción <h3>
+- Descripción <h3>
 
-Imagen con clase img-thumbnail
+- Imagen con clase img-thumbnail
 
 Nombres del equipo listados en etiquetas <h5>.
 
@@ -73,7 +65,8 @@ Rojo
 
 Cada etiqueta <h5> tiene su propio contador, independiente de los demás.
 
-const colores = ["green", "blue", "red"];
+<img width="371" height="36" alt="image" src="https://github.com/user-attachments/assets/af41abfc-5cf7-4503-ade5-a2d8504e98bf" />
+
 
 🧠 Objetivos de Aprendizaje
 
@@ -97,16 +90,16 @@ Seguir un flujo Scrum básico dentro del equipo.
 
 🔧 Instalación y Uso
 
-Clona el repositorio:
+1.- Clona el repositorio:
 
-git clone <url-repositorio>
+<img width="246" height="36" alt="image" src="https://github.com/user-attachments/assets/d5e81997-4d80-4537-a2ad-cd1158f258f7" />
 
+2.- Abre el proyecto en tu editor (VS Code, Replit, etc.)
 
-Abre el proyecto en tu editor (VS Code, Replit, etc.)
+3.- Asegúrate de mantener la carpeta Pictures/ en la misma ruta.
 
-Asegúrate de mantener la carpeta Pictures/ en la misma ruta.
+4.- Abre index.html en tu navegador.
 
-Abre index.html en tu navegador.
 
 🖼 Funcionalidad Interactiva
 
@@ -118,36 +111,27 @@ Cada nombre tiene su propio ciclo independiente.
 
 Esto se logró mediante:
 
-header.addEventListener("click", () => {
-    header.style.color = colores[index];
-    index = (index + 1) % colores.length;
-});
+<img width="400" height="128" alt="image" src="https://github.com/user-attachments/assets/bbd88d0c-aa05-4728-a519-2ef498c6556b" />
+
 
 🏗 Flujo de Trabajo en Git y GitHub
 ✔ Ramas utilizadas
 
 Cada integrante creó una rama por grupo de letras asignadas, siguiendo el formato:
 
-letterA-B
-
-letterC-F
-
-letterG-I
-
-etc.
+- letterA-B
+- letterC-F
+- letterG-I
+- etc.
 
 ✔ Comandos útiles
-git branch         # ver ramas
-git branch nombre  # crear rama
-git checkout nombre  # moverse a la rama
-git checkout -b nombre # crear y moverse
+
+<img width="365" height="120" alt="image" src="https://github.com/user-attachments/assets/535b5c5f-9711-48dd-abac-b201d090aa05" />
+
 
 ✔ Subir rama a GitHub
-git status
-git add .
-git commit -m "mensaje"
-git pull origin main
-git push origin nombreRama
+<img width="250" height="156" alt="image" src="https://github.com/user-attachments/assets/3d4a22ce-1bb3-4230-aa6d-65eafa444c85" />
+
 
 ✔ Proyecto Kanban
 
@@ -165,34 +149,27 @@ Cada letra o sección tenía su propia issue o tarjeta.
 
 👥 Integrantes del Equipo
 
-Francis
-
-Belén
-
-Tiago
-
-Brahim
-
-Héctor
-
-Diego
+Francis Osses
+Belén Almendros
+Tiago Alcazar
+Brahim Gonzalez
+Héctor Chacon
+Diego Villagran
 
 📚 Archivos Incluidos
-index.html
 
+- index.html
 Estructura completa del sitio, Bootstrap, contenedor principal e imágenes del ABC.
 
-style.css
-
+- style.css
 Contiene los estilos personalizados: fondo gris, colores de <h3> y clases específicas.
 
-script.js
-
+- script.js
 Script de interacción para cambiar colores al hacer clic sobre los nombres del equipo.
 
-lessonplan.md
-
+- lessonplan.md
 Documento original con instrucciones de la actividad.
+
 
 🏁 Resultado Final
 
