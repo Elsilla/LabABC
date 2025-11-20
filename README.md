@@ -25,6 +25,7 @@ Además, se implementaron prácticas básicas de HTML, CSS, JavaScript y Git/Git
 🚀 Funcionalidades Principales
 
 ✔ HTML
+
 Página principal estructurada con Bootstrap 5.
 
 Todas las letras del alfabeto (A–Z) con:
