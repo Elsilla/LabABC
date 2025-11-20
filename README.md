@@ -134,6 +134,7 @@ Cada integrante creó una rama por grupo de letras asignadas, siguiendo el forma
 
 
 ✔ Subir rama a GitHub
+
 <img width="250" height="156" alt="image" src="https://github.com/user-attachments/assets/3d4a22ce-1bb3-4230-aa6d-65eafa444c85" />
 
 
