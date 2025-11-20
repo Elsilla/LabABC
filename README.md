@@ -29,9 +29,9 @@ Página principal estructurada con Bootstrap 5.
 
 Todas las letras del alfabeto (A–Z) con:
 
-- Título <h1>
+- Título < h1 >
 
-- Descripción <h3>
+- Descripción < h3 >
 
 - Imagen con clase img-thumbnail
 
